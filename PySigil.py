@@ -100,7 +100,8 @@ SL_MOUSE_BUTTON_RIGHT = SL_MOUSE_BUTTON_2
 SL_MOUSE_BUTTON_MIDDLE = SL_MOUSE_BUTTON_3
 
 #load sigil library
-sigil = ctypes.cdll.LoadLibrary('C:/Users/Andy/Downloads/sigil-vc2015-0.9.0/sigil-vc2015/sigil')
+sigil = ctypes.cdll.LoadLibrary('Path to 32-bit sigil DLL') #changed for security reasons. 
+#simply change this to the path where the sigil DLL resides. 
 
 #sigil init functions
 slWindow = ctypes.CFUNCTYPE(ctypes.c_void_p,ctypes.c_int,ctypes.c_int,ctypes.c_char_p,ctypes.c_int)

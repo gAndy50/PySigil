@@ -5,7 +5,7 @@
 #Sigil 0.9.0
 #Icy Viking Games
 #Sigil wrapper for Python
-#Copyright (c) 2021
+#Copyright (c) 2022
 #####################################
 
 #import ctype

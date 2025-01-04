@@ -4,7 +4,7 @@ Wrapper of Sigil for Python
 # About
 A wrapper of the Sigil multimedia library for the Python programming language. This is for use with Python 3 and above. Sigil is a multimedia library that handles images, audio and text. PySigil is meant to be cross-platform and should run on Windows or GNU/Linux with little or no issues.
 
-(c) Copyright 2024 PySigil
+(c) Copyright 2025 PySigil
 
 # License
 

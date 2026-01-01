@@ -5,7 +5,7 @@
 #Sigil 0.9.0
 #Icy Viking Games
 #Sigil wrapper for Python
-#Copyright (c) 2024
+#Copyright (c) 2026
 #####################################
 
 #import ctype
@@ -197,3 +197,4 @@ while not sigil.slShouldClose() :
    sigil.slRender()
 
 sigil.slClose()
+
